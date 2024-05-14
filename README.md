@@ -1,7 +1,5 @@
 Hiii!! 👋 I am Ancheeta Singh
 
-<!--
-**singhancheeta/singhancheeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Machine Learning Enthusiast from India
 
 
@@ -11,4 +9,3 @@ Machine Learning Enthusiast from India
 - 📫 How to reach me: singhancheeta04@gmail.com
 
 
--->
