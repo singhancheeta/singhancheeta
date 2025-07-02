@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Ancheeta Singh
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E91E63&center=true&vCenter=true&width=480&lines=Python+%7C+Flask+%7C+Django+Developer;AI+%2F+ML+%2F+Deep+Learning+Explorer;Web+App+%7C+Chatbot+Creator;Generative+AI+Enthusiast;Always+Learning+%F0%9F%93%9A+Improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E91E63&center=true&vCenter=true&width=480&lines=AI+%2F+ML+%2F+Data Science+Explorer;Python+%7C+Flask+%7C+Django+Developer;Web+App+%7C+Chatbot+Creator;Generative+AI+Enthusiast;Always+Learning+%F0%9F%93%9A+Improving" alt="Typing SVG" />
 </div>
 
 <p align="center">
